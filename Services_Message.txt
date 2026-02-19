@@ -1,0 +1,13 @@
+web.telegram.org
+telegram.org
+t.me
+discord.com
+discord.gg
+messenger.com
+line.me
+signal.org
+viber.com
+wechat.com
+skype.com
+teams.microsoft.com
+slack.com
